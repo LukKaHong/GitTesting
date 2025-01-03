@@ -1,28 +1,2 @@
-line 1- add 123
-line 2- add 2222
-<<<<<<< HEAD
-wqeqweqw
+a 1111111111111
 
-
-2e321e
-
-
-fdfsdf
-
-
-32rerfew
-
-
-23r	23rwer
-
-
-qwrqwrqw
-
-
-
-
-
-
-=======
-wqeqweqw
->>>>>>> parent of 41ea907 (Update 1.txt)
